@@ -1,2 +1,2 @@
 # Apply Sobel and Stereo Vision Algorithms to Images and videos respectively and Accelerate Them
-In this project, we applied sobel and stereo vision algorithms to images and videos respectively and accelerate their calculation with SIMD.
+In this project, we applied sobel and stereo vision algorithms to images and videos respectively and accelerate their calculation with SIMD. The goal of this project was getting familier with sterio vision and sobel methods and the way they are used in order to measure depth of images and differences between two frames of a movie. This project is done as a computer assignment of "High Performance Computing (HPC)" course. The report is in Persion but all the results are presented in English.
